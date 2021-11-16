@@ -22,4 +22,4 @@ This repo shows how to use the Storage block and [Next.js](https://nextjs.org/).
 
 - Copy your secret key from the [administration](https://liveblocks.io/dashboard/apikeys)
 
-- Create a file named `.env.local` and add your Liveblocks secret as environment variable `LIVEBLOCKS_SECRET_KEY=sk_test_yourkey`
+- Create a file named `.env` and add your Liveblocks secret as environment variable `LIVEBLOCKS_SECRET_KEY=sk_test_yourkey`

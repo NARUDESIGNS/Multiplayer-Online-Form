@@ -4,3 +4,4 @@ tsconfig.json
 next-env.d.ts
 next.config.js
 package-lock.json
+.env

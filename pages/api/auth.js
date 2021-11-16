@@ -1,7 +1,6 @@
 import { authorize } from "@liveblocks/node";
 
-//const API_KEY = process.env.LIVEBLOCKS_SECRET_KEY;
-const API_KEY = "sk_test__s-YVXfyIVMnc1olozV2howt";
+const API_KEY = process.env.LIVEBLOCKS_SECRET_KEY;
 
 export default async function auth(req, res) {
   if (!API_KEY) {
