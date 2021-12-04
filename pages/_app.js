@@ -1,5 +1,4 @@
 import "../styles/globals.css";
-//import type { AppProps } from "next/app";
 import { createClient } from "@liveblocks/client";
 import { LiveblocksProvider, RoomProvider } from "@liveblocks/react";
 
